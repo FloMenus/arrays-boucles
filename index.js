@@ -82,7 +82,30 @@
 
 // 8- While 
 
-let total = 0;
-const limit = 10;
+// let total === 0;
+// const limit === 10;
 
-while ()
+// while (total < limit) {
+//     total++ 
+//     console.log (total)
+// }
+
+
+// 9- Sans boucle
+
+// const prénoms = ["Mago","Aurelien","Arthur","Jad","Cinnie","Clara","Danh","Edaly","Emad","Florez","Julien","Lucas","Lynda","Rayan","Dushen","Thomas","Walid","Walid"]
+
+// console.log (prénoms[Math.floor(Math.random()*prénoms.length)])
+
+
+// 10- Random and max
+
+const array =[]
+
+for (let i=1; i <= 20; i++) {
+    array.push(Math.floor(Math.random()*(100 + 1)))
+    }
+
+    console.table (array)
+
+
