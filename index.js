@@ -43,19 +43,35 @@
 // let total = 0;
 // const limit = 10;
 
-// for (let i= total; i<=limit; i++){
-//     console.log(i)
+// for (i= total; i<=limit; i++){ 
+//     total=total+i
+//     console.log(total+i)
 // }
 
-// 6- Reverse
+// console.log (total)
+
+// 6- Reverse+
 
 // const sentence ="Hello Konexio !"
 
+// for (i=0; i=)
 
 
-// // for (let i=sentence; i= "! oixenoK olleH"; i.push(i.charAt(0)), i.shift(i.charAt(0))) {
-// //     console.log (i)
-// // }
+
+
+// const sentenceArray= sentence.split("")
+// const sentenceArrayIndex = sentenceArray.length -1
+
+// console.log (sentenceArray)
+
+// for (i=0; i<sentenceArray.length; i++){
+//     sentenceArray.push(sentenceArray[i])
+//     sentenceArray.shift(sentenceArray[i])
+//     console.log (sentenceArray[i])
+// }
+
+
+
 
 
 // 7- Fizzbuzz
@@ -100,12 +116,22 @@
 
 // 10- Random and max
 
-const array =[]
+// const array =[]
 
-for (let i=1; i <= 20; i++) {
-    array.push(Math.floor(Math.random()*(100 + 1)))
-    }
+// for (let i=1; i <= 20; i++) {
+//     array.push(Math.floor(Math.random()*(100 + 1)))
+//     }
 
-    console.table (array)
+//     console.table (array)
+
+//     let comparaison = 0
+
+// for (let i=0; i<=20; i++) {
+//     if (array[i] > comparaison){
+//     comparaison=array[i]
+//     }
+
+// }
+// console.log (comparaison)
 
 
