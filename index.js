@@ -5,6 +5,7 @@
 // console.log (fruits);
 // console.table(fruits);
 
+////////////////////////////////////////////////////////////////
 
 // 2 - Access
 
@@ -13,6 +14,7 @@
 // console.log(ingredients[1])
 // console.log(ingredients .indexOf("butter"))
 
+////////////////////////////////////////////////////////////////
 
 // 3- Add and Removes
 
@@ -30,6 +32,8 @@
 // objects.shift()
 // console.log(objects)
 
+////////////////////////////////////////////////////////////////
+
 // 4- Order
 
 // const numbers = [4,10,8,12,6];
@@ -37,6 +41,7 @@
 
 // console.log(numbers)
 
+////////////////////////////////////////////////////////////////
 
 // 5- Boucle
 
@@ -50,29 +55,25 @@
 
 // console.log (total)
 
-// 6- Reverse+
+////////////////////////////////////////////////////////////////
+
+// 6- Reverse+ (PAS REUSSI)
 
 // const sentence ="Hello Konexio !"
 
-// for (i=0; i=)
+// let sentenceReversed =""
 
 
 
-
-// const sentenceArray= sentence.split("")
-// const sentenceArrayIndex = sentenceArray.length -1
-
-// console.log (sentenceArray)
-
-// for (i=0; i<sentenceArray.length; i++){
-//     sentenceArray.push(sentenceArray[i])
-//     sentenceArray.shift(sentenceArray[i])
-//     console.log (sentenceArray[i])
+// for (i=0; i=14; i++) {
+//     sentenceReversed = sentence.charAt(0).replace(sentence.charAt(14))
 // }
 
+// console.log (sentenceReversed)
 
 
 
+////////////////////////////////////////////////////////////////
 
 // 7- Fizzbuzz
 
@@ -96,6 +97,8 @@
     
 // }
 
+////////////////////////////////////////////////////////////////
+
 // 8- While 
 
 // let total === 0;
@@ -106,6 +109,7 @@
 //     console.log (total)
 // }
 
+////////////////////////////////////////////////////////////////
 
 // 9- Sans boucle
 
@@ -113,6 +117,7 @@
 
 // console.log (prénoms[Math.floor(Math.random()*prénoms.length)])
 
+////////////////////////////////////////////////////////////////
 
 // 10- Random and max
 
