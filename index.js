@@ -40,8 +40,49 @@
 
 // 5- Boucle
 
+// let total = 0;
+// const limit = 10;
+
+// for (let i= total; i<=limit; i++){
+//     console.log(i)
+// }
+
+// 6- Reverse
+
+// const sentence ="Hello Konexio !"
+
+
+
+// // for (let i=sentence; i= "! oixenoK olleH"; i.push(i.charAt(0)), i.shift(i.charAt(0))) {
+// //     console.log (i)
+// // }
+
+
+// 7- Fizzbuzz
+
+// for (i=0; i<100; i++){
+
+//     if (i%5 === 0 && i%3===0) {
+//     console.log ("fizzbuzz")
+//     }
+
+//     else if (i%5 === 0){
+//     console.log ("buzz")
+//     }
+
+//     else if (i%3 === 0) {
+//     console.log ("fizz")
+//     }
+
+//     else {
+//     console.log (i)
+//     }
+    
+// }
+
+// 8- While 
+
 let total = 0;
 const limit = 10;
 
-for (i=total, limit, total+=i){
-}
+while ()
